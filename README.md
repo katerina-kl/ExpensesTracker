@@ -71,3 +71,6 @@ Business logic is encapsulated in Use Cases, so the app can easily be extended w
 UI-related code in the ViewModel is kept separate from the business logic, making it easier to test the app's core functionality independently of the UI.
 
 The app can be easily extended in the future to support new features without introducing tight coupling between components.
+
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/518af1e5-b6e3-451b-a503-d2c1347289bc" />
+
