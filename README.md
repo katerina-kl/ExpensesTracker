@@ -2,7 +2,7 @@ Overview
 ------------------------------------------------------------------------------------------------------------------------------------------------
 The ExpensesTracker App is a Kotlin-based mobile application that allows users to track their expenses efficiently. The app enables users to add, delete, or edit expenses with associated details such as category and price. Users can also sort their expenses by title, date, category, and price in both ascending and descending order.
 
-This app was built using MVVM Clean Architecture to ensure that the app is scalable, maintainable, and testable. The Clean Architecture was the core reason for creating this app, as it facilitates separation of concerns, testability, and flexibility to make future improvements.
+This app was built using MVVM Clean Architecture to ensure that the app is scalable, maintainable, and testable. The Clean Architecture was the core reason for creating this app, as it facilitates separation of concerns, testability, and flexibility to make future improvements. This is not focused too much on UI/UX.
 
 Features
 ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -73,4 +73,5 @@ UI-related code in the ViewModel is kept separate from the business logic, makin
 The app can be easily extended in the future to support new features without introducing tight coupling between components.
 
 <img width="322" alt="image" src="https://github.com/user-attachments/assets/518af1e5-b6e3-451b-a503-d2c1347289bc" />
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/74e0484a-18bb-4f70-9cf2-67ea0b09fdd9" />
 
