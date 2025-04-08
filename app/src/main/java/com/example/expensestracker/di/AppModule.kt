@@ -2,11 +2,14 @@ package com.example.expensestracker.di
 
 import android.app.Application
 import androidx.room.Room
-import com.example.expensestracker.feature_expense.data.data_source.ExpenseDatabase
-import com.example.expensestracker.feature_expense.data.repository.ExpenseRepositoryImpl
-import com.example.expensestracker.feature_expense.domain.repository.ExpenseRepository
-import com.example.expensestracker.feature_expense.domain.use_case.*
-import com.example.expensestracker.feature_expense.domain.use_case.ExpenseUseCases
+import com.example.expensestracker.data.local.ExpenseDatabase
+import com.example.expensestracker.data.repository.ExpenseRepositoryImpl
+import com.example.expensestracker.domain.use_case.AddExpense
+import com.example.expensestracker.domain.use_case.DeleteExpense
+import com.example.expensestracker.domain.use_case.GetExpenses
+import com.example.expensestracker.domain.repository.ExpenseRepository
+import com.example.expensestracker.domain.use_case.ExpenseUseCases
+import com.example.expensestracker.domain.use_case.GetExpense
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

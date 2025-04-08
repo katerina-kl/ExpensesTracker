@@ -13,10 +13,10 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
-import com.example.expensestracker.feature_expense.presentation.add_edit_expense.AddEditExpenseScreen
-import com.example.expensestracker.feature_expense.presentation.expenses.ExpensesScreen
-import com.example.expensestracker.feature_expense.presentation.util.Screen
-import com.example.expensestracker.ui.theme.ExpensesTrackerTheme
+import com.example.expensestracker.presentation.ui.features.expense_feature.add_edit_expense.AddEditExpenseScreen
+import com.example.expensestracker.presentation.ui.features.expense_feature.expenses.ExpensesScreen
+import com.example.expensestracker.presentation.util.Screen
+import com.example.expensestracker.presentation.ui.theme.ExpensesTrackerTheme
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
