@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.expensestracker.feature.expenses.list.ExpensesViewModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-05-19T10:13:20" hostname="RQXHF40QG6" time="0.757">
+  <properties/>
+  <testcase name="uiState emits Success state after expenses flow emits" classname="com.example.expensestracker.feature.expenses.list.ExpensesViewModelTest" time="0.729"/>
+  <testcase name="Order event updates expenseOrder" classname="com.example.expensestracker.feature.expenses.list.ExpensesViewModelTest" time="0.007"/>
+  <testcase name="DeleteExpense calls repository and emits ExpenseDeleted" classname="com.example.expensestracker.feature.expenses.list.ExpensesViewModelTest" time="0.014"/>
+  <testcase name="ToggleOrderSection flips visibility" classname="com.example.expensestracker.feature.expenses.list.ExpensesViewModelTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/private/var/folders/6j/zv5bv3dd7z535152pwthpjxr0000gn/T/cursor-sandbox-cache/04acda5e4fdcb5d1302255396fe4e0ed/gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.17/e3c251a39dc90badaf71c83427ba46840f219d8d/byte-buddy-agent-1.14.17.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

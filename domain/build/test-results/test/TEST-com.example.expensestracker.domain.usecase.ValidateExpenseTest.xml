@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.expensestracker.domain.usecase.ValidateExpenseTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-05-19T10:05:15" hostname="RQXHF40QG6" time="0.001">
+  <properties/>
+  <testcase name="blank content returns BlankContent error" classname="com.example.expensestracker.domain.usecase.ValidateExpenseTest" time="0.0"/>
+  <testcase name="blank currency returns BlankCurrency error" classname="com.example.expensestracker.domain.usecase.ValidateExpenseTest" time="0.0"/>
+  <testcase name="blank title returns BlankTitle error" classname="com.example.expensestracker.domain.usecase.ValidateExpenseTest" time="0.0"/>
+  <testcase name="negative price returns InvalidPrice error" classname="com.example.expensestracker.domain.usecase.ValidateExpenseTest" time="0.001"/>
+  <testcase name="valid expense returns success" classname="com.example.expensestracker.domain.usecase.ValidateExpenseTest" time="0.0"/>
+  <testcase name="NaN price returns InvalidPrice error" classname="com.example.expensestracker.domain.usecase.ValidateExpenseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

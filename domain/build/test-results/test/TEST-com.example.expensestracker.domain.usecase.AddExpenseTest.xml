@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.expensestracker.domain.usecase.AddExpenseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-19T10:05:15" hostname="RQXHF40QG6" time="0.688">
+  <properties/>
+  <testcase name="does not call repository when validation fails" classname="com.example.expensestracker.domain.usecase.AddExpenseTest" time="0.683"/>
+  <testcase name="invokes repository when expense is valid" classname="com.example.expensestracker.domain.usecase.AddExpenseTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/private/var/folders/6j/zv5bv3dd7z535152pwthpjxr0000gn/T/cursor-sandbox-cache/04acda5e4fdcb5d1302255396fe4e0ed/gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.17/e3c251a39dc90badaf71c83427ba46840f219d8d/byte-buddy-agent-1.14.17.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>

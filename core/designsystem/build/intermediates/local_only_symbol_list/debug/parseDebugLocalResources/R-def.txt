@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable baseline_add_24
+drawable baseline_delete_24
+drawable baseline_directions_car_filled_24
+drawable baseline_healing_24
+drawable baseline_home_filled_24
+drawable baseline_local_grocery_store_24
+drawable baseline_person_24
+drawable baseline_reorder_24
+drawable baseline_save_alt_24
+string category_groceries
+string category_health
+string category_home
+string category_self_care
+string category_transportation

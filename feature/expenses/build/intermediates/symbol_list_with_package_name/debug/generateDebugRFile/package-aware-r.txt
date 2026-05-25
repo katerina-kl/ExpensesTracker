@@ -1,0 +1,26 @@
+com.example.expensestracker.feature.expenses
+string add_edit_hint_content
+string add_edit_hint_currency
+string add_edit_hint_price
+string add_edit_hint_title
+string add_edit_save_cd
+string error_blank_content
+string error_blank_currency
+string error_blank_title
+string error_invalid_price
+string error_save_failed
+string expenses_add_cd
+string expenses_delete_cd
+string expenses_deleted
+string expenses_empty
+string expenses_load_error
+string expenses_retry
+string expenses_sort_cd
+string expenses_title
+string expenses_undo
+string sort_ascending
+string sort_by_category
+string sort_by_date
+string sort_by_price
+string sort_by_title
+string sort_descending

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_groceries">Groceries</string>
+    <string name="category_health">Health</string>
+    <string name="category_home">Home</string>
+    <string name="category_self_care">Self Care</string>
+    <string name="category_transportation">Transportation</string>
+</resources>

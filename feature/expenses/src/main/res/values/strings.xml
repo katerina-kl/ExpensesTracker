@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Expenses list screen -->
+    <string name="expenses_title">Your expenses</string>
+    <string name="expenses_empty">No expenses yet. Tap + to add your first one.</string>
+    <string name="expenses_load_error">Could not load expenses. Please try again.</string>
+    <string name="expenses_retry">Retry</string>
+    <string name="expenses_add_cd">Add expense</string>
+    <string name="expenses_sort_cd">Sort</string>
+    <string name="expenses_delete_cd">Delete expense</string>
+    <string name="expenses_deleted">Expense deleted</string>
+    <string name="expenses_undo">Undo</string>
+
+    <!-- Sort -->
+    <string name="sort_by_title">Title</string>
+    <string name="sort_by_date">Date</string>
+    <string name="sort_by_category">Category</string>
+    <string name="sort_by_price">Price</string>
+    <string name="sort_ascending">Ascending</string>
+    <string name="sort_descending">Descending</string>
+
+    <!-- Add/Edit expense screen -->
+    <string name="add_edit_hint_title">Enter title…</string>
+    <string name="add_edit_hint_price">Enter price…</string>
+    <string name="add_edit_hint_currency">Enter currency…</string>
+    <string name="add_edit_hint_content">Enter some content</string>
+    <string name="add_edit_save_cd">Save expense</string>
+
+    <!-- Validation errors -->
+    <string name="error_blank_title">The title of the expense can\'t be empty.</string>
+    <string name="error_blank_content">The content of the expense can\'t be empty.</string>
+    <string name="error_blank_currency">Please enter a currency.</string>
+    <string name="error_invalid_price">Please enter a valid price.</string>
+    <string name="error_save_failed">Couldn\'t save the expense.</string>
+</resources>
